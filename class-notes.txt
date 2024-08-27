@@ -1,0 +1,20 @@
+
+Project
+
+Learning
+  engage every student
+    - len("abcd")        # print 4
+    - len(string(123))   # print 3
+    - print("Hello")     # print the whole string
+    - print("Hello"[4])  # 5th character in the string
+    - print("Hello"[-1]) # last character in the string
+    - print("123"+"545") # print 123545
+    - print(int("123") + int("545"))
+    - print( 23.29 )
+    - print( True )
+    - print( False )
+
+  pre-condition post-condition
+    - len can take sequence or collection
+    -
+
