@@ -17,4 +17,13 @@ Learning
   pre-condition post-condition
     - len can take sequence or collection
     -
+print
+  	- print("My age: " + str(22))
+  	- print(123 + 456)
+  	- print( 7-3 )
+  	- print( 3* 2 )
+  	- print( 6/3 )
+  	- print(type(6/3)) #implicit type casting int -> float
+  	- print ( 6//3 ) # type check gives an int
+  	
 
